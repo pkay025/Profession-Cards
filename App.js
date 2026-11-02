@@ -17,8 +17,8 @@ export default function App() {
       image: require("./assets/paakow.jpeg"),
       type: "Hopeful",
       likes: 500,
-      ambition: ["To be a Programmer"],
-      hobbies: ["Playing games,listening to music, watching football and coding"],
+      ambition: ["System Administrator"],
+      hobbies: ["Playing games, watching football and coding"],
     };
   
     const OhenebaData = {
@@ -36,7 +36,7 @@ export default function App() {
       type: "Kind",
       likes: 900,
       ambition: ["To be a Lecturer"],
-      hobbies: ["Reading books", "Watching movies"],
+      hobbies: ["Watching movies"],
     };
   
     const AyaData = {
