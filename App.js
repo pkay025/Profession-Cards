@@ -12,6 +12,7 @@ export default function App() {
     ambition: ["To be a Doctor"],
     hobbies: ["Reading books", "Watching cartoons"],
   };
+  
     const PaakowData = {
       name: "Paakow",
       image: require("./assets/paakow.jpeg"),
