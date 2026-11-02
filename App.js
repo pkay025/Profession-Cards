@@ -1,5 +1,5 @@
 import React from "react";
-import {SafeAreaView, ScrollView, StyleSheet, Platform } from "react-native";
+import { SafeAreaView, ScrollView, StyleSheet, Platform } from "react-native";
 import ProCard from "./components/ProCard";
 
 
