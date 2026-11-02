@@ -88,7 +88,6 @@ export default function App() {
       backgroundColor: "#F5F5F5",
       paddingTop: Platform.OS === "android" ? 25 : 0,
     },
-
   });
 
 
