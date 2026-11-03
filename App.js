@@ -64,7 +64,7 @@ export default function App() {
       type: "Friendly",
       likes: 600,
       ambition: ["To be a Geologist"],
-      hobbies: ["Listening to music, watching movies"],
+      hobbies: ["Listening to music, watching movies"]
     };
    
     return (
