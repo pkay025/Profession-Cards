@@ -37,7 +37,7 @@ export default function App() {
       type: "Kind",
       likes: 900,
       ambition: ["To be a Lecturer"],
-      hobbies: ["Watching movies"],
+      hobbies: ["Watching movies"]
     };
   
     const AyaData = {
