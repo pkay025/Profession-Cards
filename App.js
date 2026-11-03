@@ -46,7 +46,7 @@ export default function App() {
       type: "Passionate",
       likes: 800,
       ambition: ["To be a Physician"],
-      hobbies: ["Watching movies"],
+      hobbies: ["Watching movies"]
     };
   
     const SedemData = {
