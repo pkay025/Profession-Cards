@@ -55,7 +55,7 @@ export default function App() {
       type: "Generous",
       likes: 900,
       ambition: ["To be a Software Engineer"],
-      hobbies: ["Playing games, listening to music, watching football matches and Watching movies"],
+      hobbies: ["Playing games, listening to music, watching football matches and Watching movies"]
     };
   
     const NancyData = {
