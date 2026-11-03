@@ -19,7 +19,7 @@ export default function App() {
       type: "Hopeful",
       likes: 500,
       ambition: ["System Administrator"],
-      hobbies: ["Playing games, and Watching football"],
+      hobbies: ["Playing games, and Watching football"]
     };
   
     const OhenebaData = {
@@ -28,7 +28,7 @@ export default function App() {
       type: "Optimistic",
       likes: 800,
       ambition: ["To be a Journalist"],
-      hobbies: ["Watching cartoons"],
+      hobbies: ["Watching cartoons"]
     };
   
     const AuntData = {
