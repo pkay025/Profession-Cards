@@ -19,7 +19,7 @@ export default function App() {
       type: "Hopeful",
       likes: 500,
       ambition: ["System Administrator"],
-      hobbies: ["Playing games, watching football and coding"],
+      hobbies: ["Playing games, and watching football"],
     };
   
     const OhenebaData = {
