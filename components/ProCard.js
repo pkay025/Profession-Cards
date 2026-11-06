@@ -107,7 +107,7 @@ const styles = StyleSheet.create({
           shadowOffset: { width: 2, height: 2 },
           shadowColor: "#333",
           shadowOpacity: 0.3,
-          shadowRadius: 4,
+          shadowRadius: 4
         },
         android: {
           elevation: 5
