@@ -153,11 +153,10 @@ const styles = StyleSheet.create({
     },
     typeText: {
       fontSize: 22,
-      fontWeight: "bold",
+      fontWeight: "bold"
     },
     ambitionCard: {
-      marginBottom: 8,
-        
+      marginBottom: 8
     },
     ambitionText: {
       fontSize: 22,
