@@ -110,7 +110,7 @@ const styles = StyleSheet.create({
           shadowRadius: 4,
         },
         android: {
-          elevation: 5,
+          elevation: 5
         },
       }),
     },
@@ -118,7 +118,7 @@ const styles = StyleSheet.create({
       flexDirection: "row",
       justifyContent: "space-between",
       width: "100%",
-      marginBottom: 32,
+      marginBottom: 32
     },
     name: {
       fontSize: 30,
