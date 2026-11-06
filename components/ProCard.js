@@ -1,4 +1,10 @@
-import { View, Text, StyleSheet, Image, Platform } from 'react-native';
+import { 
+    View,
+    Text,
+    StyleSheet,
+    Image,
+    Platform
+} from 'react-native';
 
 
 const getTypeDetails = (type) => {
