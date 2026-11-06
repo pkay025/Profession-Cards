@@ -161,10 +161,10 @@ const styles = StyleSheet.create({
     },
     ambitionText: {
       fontSize: 22,
-      fontWeight: "bold",
+      fontWeight: "bold"
     },
     hobbiesCard: {
-      marginBottom: 8,
+      marginBottom: 8
     },
     hobbiesText: {
       fontSize: 22,
