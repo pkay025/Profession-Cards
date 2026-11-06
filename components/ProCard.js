@@ -57,7 +57,7 @@ export default function ProCard({
     type,
     likes,
     ambition,
-    hobbies,
+    hobbies
 }) {
     const { borderColor, emoji } = getTypeDetails(type);
 
