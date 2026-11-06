@@ -125,19 +125,19 @@ const styles = StyleSheet.create({
       fontWeight: "bold",
     },
     likes: {
-      fontSize: 22,
+      fontSize: 22
     },
     image: {
       width: "100%",
       height: 300,
       marginBottom: 16,
-      borderRadius: 15,
+      borderRadius: 15
     },
     typeContainer: {
       flexDirection: "row",
       alignItems: "center",
       justifyContent: "center",
-      marginBottom: 40,
+      marginBottom: 40
     },
     badge: {
       flexDirection: "row",
@@ -145,11 +145,11 @@ const styles = StyleSheet.create({
       paddingVertical: 6,
       paddingHorizontal: 12,
       borderRadius: 20,
-      borderWidth: 4,
+      borderWidth: 4
     },
     typeEmoji: {
       fontSize: 30,
-      marginRight: 12,
+      marginRight: 12
     },
     typeText: {
       fontSize: 22,
@@ -167,6 +167,6 @@ const styles = StyleSheet.create({
     },
     hobbiesText: {
       fontSize: 22,
-      fontWeight: "bold",
+      fontWeight: "bold"
     },
   });
