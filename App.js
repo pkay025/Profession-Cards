@@ -86,7 +86,7 @@ export default function App() {
     card: {
       flex: 1,
       backgroundColor: "#F5F5F5",
-      paddingTop: Platform.OS === "android" ? 25 : 0,
+      paddingTop: Platform.OS === "android" ? 25 : 0
     },
   });
 
