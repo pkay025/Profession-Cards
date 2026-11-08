@@ -122,7 +122,7 @@ const styles = StyleSheet.create({
     },
     name: {
       fontSize: 30,
-      fontWeight: "bold",
+      fontWeight: "bold"
     },
     likes: {
       fontSize: 22
