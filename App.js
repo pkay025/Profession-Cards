@@ -15,7 +15,7 @@ export default function App() {
     type: "Caring",
     likes: 1000,
     ambition: ["To be a Doctor"],
-    hobbies: ["Reading books, and Watching cartoons"]
+    hobbies: ["Reading story books, and Watching cartoons"]
   };
   
     const PaakowData = {
