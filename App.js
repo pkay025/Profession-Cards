@@ -33,7 +33,7 @@ export default function App() {
       type: "Optimistic",
       likes: 800,
       ambition: ["To be a Journalist"],
-      hobbies: ["Watching cartoons"]
+      hobbies: ["Watching cartoons and Reading Story books"]
     };
   
     const AuntData = {
